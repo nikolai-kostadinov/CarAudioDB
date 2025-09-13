@@ -1,0 +1,1 @@
+int STATIC_INIT_GNU = 1;
